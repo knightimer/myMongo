@@ -1,0 +1,33 @@
+.new-article-btn {
+    margin-top: 10px;
+  }
+  
+  .title-link {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .title-link:hover {
+    text-decoration: none;
+    color: #2c7df7;
+  }
+  
+  textarea {
+    display: block;
+    height: 1500px;
+    font-size: 70px;
+    width: 100%;
+    background-color: #ffffff;
+    border: 1px solid #cfcfcf;
+  }
+  
+  #note {
+    text-transform: uppercase;
+    font-size: 70px;
+    color: #393535;
+    letter-spacing: 1px;
+  }
+
+ 
+
+ 
