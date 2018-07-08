@@ -1,9 +1,12 @@
-# scrape-into-mongodb-mongoose-test
+### Mongo News Scraper
 
-### Uses mongodb/mongoose to store data scrapped with cheerio.
 
-#### This simple scrapper can be run by running 
-- npm i 
-- npm start (runs "nodemon server.js") 
-- hitting /scrape route 
-- hitting /article route to see scrapped content in json format
+A news scraper using Mongoose, Cherio, Node, Express,and Handlebars.
+
+[![Landing Page Preview](/public/img/screenshot.png)]
+
+(public/img/screenshot.png)
+## How it works:
+The news scraper app that lets users scrap information from a particular website.
+
+Whenever a user hits the scrape button, the app will display information targeted in its html; such as, <H2>, <p> , or <a href> on the page. The information pulled will give you the option to comment and save the article.
